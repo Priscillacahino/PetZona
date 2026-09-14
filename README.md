@@ -1,141 +1,158 @@
-# 🐾 Petzona — Projeto Final de UX/UI
+# 🐾 PetZona — Estudo de Caso Acadêmico de UX/UI
 
-O **Petzona** foi desenvolvido como projeto final do **Workshop da Fábrica de Software 2026.1**.
+O **PetZona** foi desenvolvido como projeto final do **Workshop da Fábrica de Software 2026.1**.
 
 O desafio fez parte do processo de avaliação para ingresso na equipe de **UX/UI do projeto Adm4All**, permitindo colocar em prática os conhecimentos apresentados durante o workshop.
 
+
+## ✨ Nova prototipação — em desenvolvimento
+
+A interface do **PetZona** está passando por uma nova etapa de evolução visual. A imagem abaixo apresenta uma prévia da direção adotada para as novas telas, incluindo experiências de produtos, serviços e confirmação de agendamento.
+
+<p align="center">
+  <img src="./petzona-nova-prototipacao.webp" width="100%" alt="Prévia da nova prototipação do PetZona">
+</p>
+
+> **Status:** a nova prototipação de alta fidelidade ainda está em desenvolvimento no Figma. Esta imagem representa uma prévia e poderá receber ajustes até a conclusão do fluxo navegável.
+
 ---
 
-## 🎯 Sobre o desafio
+## 📌 Visão geral
 
-A proposta consistia em desenvolver uma solução digital seguindo algumas etapas do processo de UX/UI.
+| Item | Descrição |
+|---|---|
+| **Tipo de projeto** | Acadêmico — desafio final de workshop |
+| **Área** | UX/UI Design |
+| **Segmento** | Produtos e serviços para pets |
+| **Responsabilidade** | Pesquisa exploratória, estruturação do fluxo e prototipação |
+| **Ferramentas** | Figma e Miro |
+| **Período** | 2026.1 |
 
-Durante o projeto, foram realizadas as seguintes atividades:
+---
 
-- 👤 Criação de uma **persona**
-- 🗺️ Desenvolvimento do **Mapeamento da Jornada do Cliente**, utilizando o **Miro**
-- 📝 Elaboração dos primeiros esboços das telas
-- ✏️ Criação do **protótipo de baixa fidelidade**
-- 🎨 Desenvolvimento do **protótipo de alta fidelidade**
-- 🧭 Organização do fluxo de navegação entre as telas
+## 🎯 O desafio
+
+A atividade propôs a criação de uma solução digital com, no mínimo, três telas conectadas. O processo deveria contemplar a definição de um perfil de usuário, o mapeamento de sua jornada e a construção de protótipos de baixa e alta fidelidade.
 
 O protótipo deveria possuir **no mínimo três telas**, contemplando etapas importantes da experiência, como:
 
-- Tela de login
-- Tela principal ou de conteúdo
-- Tela relacionada ao produto ou serviço
-- Tela final da jornada
+- Tela de login;
+- Tela principal ou de conteúdo;
+- Tela relacionada ao produto ou serviço;
+- Tela final da jornada.
 
-Para realizar o desafio, escolhi desenvolver o **Petzona**, uma proposta de solução digital voltada ao segmento pet.
-
----
-
-## 👤 Persona
-
-A persona foi criada para representar um possível perfil de usuário da solução e apoiar a compreensão de suas necessidades, rotina e dificuldades.
-
-A personagem utilizada no projeto foi **Tamiris**, uma profissional com rotina de trabalho intensa e três pets. Entre suas necessidades estavam encontrar serviços de confiança, preços acessíveis e formas mais práticas de cuidar dos animais mesmo com pouco tempo disponível.
-
-📄 **[Visualizar Persona](./persona-petzona.pdf)**
+Para o desafio, escolhi desenvolver uma solução voltada ao segmento pet, considerando principalmente pessoas com rotina intensa que precisam encontrar produtos e serviços de confiança para cuidar de seus animais.
 
 ---
 
-## 🗺️ Mapeamento da Jornada do Cliente
+## 💡 A proposta
 
-Após a criação da persona, foi desenvolvido o **Mapeamento da Jornada do Cliente** utilizando o **Miro**.
+O PetZona foi pensado para concentrar, em um único ambiente, recursos que facilitem a rotina dos tutores:
 
-Essa etapa ajudou a visualizar diferentes momentos da interação da persona com o serviço e serviu como apoio para organizar a experiência antes da construção das telas.
+- Compra de alimentos, medicamentos, acessórios e outros produtos;
+- Busca por profissionais e serviços próximos;
+- Agendamento de banho e tosa;
+- Atendimento veterinário;
+- Pet sitter e passeio;
+- **Spa Pet**, para animais que passarão o dia recebendo cuidados, atenção e carinho;
+- **Táxi Pet**, para transporte seguro do animal;
+- Avaliações de serviços e acompanhamento de pedidos e agendamentos.
 
-📄 **[Visualizar Mapeamento da Jornada](./jornada-do-cliente-petzona.pdf)**
+Os serviços de **Spa Pet** e **Táxi Pet** ampliam a resposta à principal necessidade identificada: facilitar o cuidado com os animais quando o tutor possui pouco tempo disponível.
 
 ---
 
-## 📝 Esboço inicial
+## 👤 Proto-persona
 
-Antes de desenvolver as telas no Figma, foram feitos **esboços à mão** para organizar a disposição dos elementos e pensar inicialmente no fluxo entre as páginas.
+A proto-persona **Tamiris** representa uma tutora com rotina profissional intensa e três animais de estimação. Ela procura praticidade, preços acessíveis e, principalmente, confiança nas pessoas responsáveis pelos cuidados com seus pets.
 
-Essa etapa permitiu estruturar a ideia de forma simples antes de avançar para a prototipação digital.
+### Necessidades principais
+
+- Economizar tempo;
+- Comprar produtos sem precisar se deslocar;
+- Encontrar serviços confiáveis;
+- Acompanhar pedidos e agendamentos;
+- Garantir que seus animais recebam atenção durante sua ausência.
+
+📄 **[Visualizar proto-persona](./persona-petzona.pdf)**
+
+---
+
+## 🗺️ Jornada do usuário
+
+O mapeamento da jornada ajudou a organizar as ações, necessidades, dificuldades e oportunidades percebidas em diferentes momentos da experiência.
+
+Esse processo serviu como base para estruturar o fluxo antes da criação das telas.
+
+📄 **[Visualizar jornada do usuário](./jornada-do-cliente-petzona.pdf.pdf)**
+
+---
+
+## ✏️ Do esboço ao protótipo
+
+### 1. Esboços iniciais
+
+As primeiras ideias foram desenhadas à mão para organizar a distribuição dos elementos e a sequência das telas.
 
 <p align="center">
-  <img
-    src="./prototipo-baixa-fidelidade-inicial-petzona.jpeg"
-    width="750"
-    alt="Esboço inicial das telas do projeto Petzona"
-  >
+  <img src="./prototipo-baixa-fidelidade-inicial-petzona.jpeg.jpeg" width="700" alt="Esboços iniciais do projeto PetZona">
 </p>
 
----
+### 2. Protótipo de baixa fidelidade
 
-## ✏️ Protótipo de baixa fidelidade
+Os wireframes foram construídos no Figma para definir a arquitetura das informações e o fluxo de navegação, antes da aplicação da identidade visual.
 
-Após os esboços iniciais, a estrutura das telas foi desenvolvida no **Figma** como protótipo de baixa fidelidade.
+🔗 **[Acessar protótipo de baixa fidelidade no Figma](https://www.figma.com/design/vAmvuf2GjmCAnx36Vieos4/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=tca6BgWprst7PPyQ-0)**
 
-Nesta etapa, o foco foi organizar as informações, definir os principais elementos de cada tela e estruturar o fluxo de navegação antes da aplicação da identidade visual.
+### 3. Protótipo de alta fidelidade — em evolução
 
-🔗 **[Visualizar protótipo de baixa fidelidade no Figma](https://www.figma.com/design/vAmvuf2GjmCAnx36Vieos4/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=tca6BgWprst7PPyQ-0)**
+Na etapa atual, estão sendo aplicados cores, imagens, tipografia e componentes visuais para evoluir a experiência da solução. A nova prototipação ainda está em desenvolvimento e poderá receber ajustes de interface, componentes e fluxo.
 
----
-
-## 🎨 Protótipo de alta fidelidade
-
-Com a estrutura definida, foi desenvolvido o **protótipo de alta fidelidade**, trabalhando os elementos visuais e a apresentação final da solução.
-
-O protótipo navegável permite visualizar o fluxo desenvolvido para o **Petzona** e a transição entre as principais telas.
-
-🔗 **[Visualizar protótipo navegável no Figma](https://www.figma.com/proto/O5rsOpFFIhtEOQWkDdcwW7/Sem-t%C3%ADtulo?node-id=94-537&p=f&t=iJxgDcyvzsfzQQxZ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)**
-
-📄 **[Visualizar PDF da prototipação](./prototipo-petzona.pdf)**
+🔗 **O link do protótipo final será inserido após a conclusão das telas no Figma.**
 
 ---
 
-## 🔄 Etapas do projeto
+## 🔄 Fluxos trabalhados
 
-**Persona**  
-⬇️  
-**Mapeamento da Jornada do Cliente**  
-⬇️  
-**Esboços iniciais**  
-⬇️  
-**Protótipo de baixa fidelidade**  
-⬇️  
-**Protótipo de alta fidelidade**  
-⬇️  
-**Protótipo navegável**
+### Compra de produtos
 
----
+1. Acesso ou cadastro;
+2. Escolha da categoria do animal;
+3. Visualização dos produtos;
+4. Seleção do item;
+5. Carrinho e endereço;
+6. Forma de pagamento;
+7. Confirmação do pedido.
 
-## 🛠️ Ferramentas e conhecimentos aplicados
+### Contratação de serviços
 
-- 🎨 **Figma**
-- 🗺️ **Miro**
-- 👤 **Persona**
-- 🧭 **Mapeamento da Jornada do Cliente**
-- 📝 **Esboços e wireframes**
-- ✏️ **Prototipação de baixa fidelidade**
-- 🎨 **Prototipação de alta fidelidade**
-- 💡 **UX/UI Design**
+1. Escolha do tipo de serviço;
+2. Busca e comparação de profissionais;
+3. Consulta de perfil, avaliações e valores;
+4. Escolha de data, horário e local;
+5. Confirmação do agendamento;
+6. Acompanhamento do atendimento.
 
 ---
 
-## 📚 Aprendizado
+## 🛠️ Conhecimentos aplicados
 
-O desenvolvimento do **Petzona** foi uma oportunidade de colocar em prática diferentes etapas estudadas durante o workshop, desde a compreensão de um perfil de usuário até a organização do fluxo e a construção dos protótipos.
-
-O projeto também representou uma etapa importante do meu aprendizado em **UX/UI**, pois foi desenvolvido como avaliação final do workshop.
-
-A conclusão do desafio fez parte do processo que possibilitou meu ingresso na **Fábrica de Software**, onde posteriormente passei a integrar a equipe de **UX/UI do projeto Adm4All**.
+- Proto-persona;
+- Jornada do usuário;
+- Arquitetura da informação;
+- Fluxo de navegação;
+- Esboços e wireframes;
+- Prototipação de baixa e alta fidelidade;
+- Organização visual de interfaces;
+- Princípios iniciais de usabilidade;
+- Figma e Miro.
 
 ---
 
 ## 👩‍💻 Autora
 
-**Priscilla Cahino**
+**Priscilla Cahino**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+UX/UI — Fábrica de Software | Adm4All
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-
-💼 Participante da **Fábrica de Software — UX/UI | Adm4All**
-
-<img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 14_55_00" src="https://github.com/user-attachments/assets/a9883647-3ed5-4ca1-b8d4-1355c2c72aee" />
-
-
-
+Este repositório apresenta um projeto acadêmico e seu processo de evolução como parte da minha aprendizagem em tecnologia e design de experiências.
