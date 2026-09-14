@@ -4,7 +4,6 @@ O **PetZona** foi desenvolvido como projeto final do **Workshop da Fábrica de S
 
 O desafio fez parte do processo de avaliação para ingresso na equipe de **UX/UI do projeto Adm4All**, permitindo colocar em prática os conhecimentos apresentados durante o workshop.
 
-
 ## ✨ Nova prototipação — em desenvolvimento
 
 A interface do **PetZona** está passando por uma nova etapa de evolução visual. A imagem abaixo apresenta uma prévia da direção adotada para as novas telas, incluindo experiências de produtos, serviços e confirmação de agendamento.
@@ -59,6 +58,10 @@ O PetZona foi pensado para concentrar, em um único ambiente, recursos que facil
 - Avaliações de serviços e acompanhamento de pedidos e agendamentos.
 
 Os serviços de **Spa Pet** e **Táxi Pet** ampliam a resposta à principal necessidade identificada: facilitar o cuidado com os animais quando o tutor possui pouco tempo disponível.
+
+### 🧩 UX/UI com visão de Customer Experience
+
+Além da interface, a evolução do PetZona considera a **jornada do tutor, pontos de atrito, confiança e acompanhamento dos serviços**, ampliando o projeto para uma visão de experiência do cliente.
 
 ---
 
