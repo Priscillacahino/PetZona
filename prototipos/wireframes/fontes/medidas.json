@@ -1,0 +1,578 @@
+[
+  {
+    "screen": "00 · Login",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 770,
+    "viewportHeight": 798,
+    "scrolls": false
+  },
+  {
+    "screen": "01 · Início",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 943,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "02 · Produtos",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 753,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "03 · Produto",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 661,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "04 · Carrinho",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 596,
+    "viewportHeight": 644,
+    "scrolls": false
+  },
+  {
+    "screen": "05 · Pagamento",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 661,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "06 · Serviços",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 734,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "07 · Profissionais",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 698,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Perfil do profissional",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 667,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Agendamento",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 817,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Confirmação",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "Extra · Compra concluída",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 547,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Spa Pet",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 748,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Spa Pet",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 807,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Spa Pet",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "08 · Táxi Pet",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 667,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Táxi Pet",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 991,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Táxi Pet",
+    "width": 430,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "00 · Login",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 831,
+    "viewportHeight": 798,
+    "scrolls": true
+  },
+  {
+    "screen": "01 · Início",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 989,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "02 · Produtos",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 774,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "03 · Produto",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 682,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "04 · Carrinho",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 612,
+    "viewportHeight": 644,
+    "scrolls": false
+  },
+  {
+    "screen": "05 · Pagamento",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 661,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "06 · Serviços",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 773,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "07 · Profissionais",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 698,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Perfil do profissional",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 667,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Agendamento",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 817,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Confirmação",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 804,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "Extra · Compra concluída",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 608,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Spa Pet",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 809,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Spa Pet",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 807,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Spa Pet",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 804,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "08 · Táxi Pet",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 688,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Táxi Pet",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 991,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Táxi Pet",
+    "width": 360,
+    "height": 932,
+    "contentHeight": 823,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "00 · Login",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 770,
+    "viewportHeight": 798,
+    "scrolls": false
+  },
+  {
+    "screen": "01 · Início",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 965,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "02 · Produtos",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 774,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "03 · Produto",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 682,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "04 · Carrinho",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 612,
+    "viewportHeight": 644,
+    "scrolls": false
+  },
+  {
+    "screen": "05 · Pagamento",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 661,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "06 · Serviços",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 773,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "07 · Profissionais",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 698,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Perfil do profissional",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 667,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Agendamento",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 817,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Confirmação",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "Extra · Compra concluída",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 569,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Spa Pet",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 748,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Spa Pet",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 807,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Spa Pet",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "08 · Táxi Pet",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 667,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Táxi Pet",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 991,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Táxi Pet",
+    "width": 390,
+    "height": 932,
+    "contentHeight": 788,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "00 · Login",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 732,
+    "viewportHeight": 798,
+    "scrolls": false
+  },
+  {
+    "screen": "01 · Início",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 922,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "02 · Produtos",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 716,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "03 · Produto",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 640,
+    "viewportHeight": 644,
+    "scrolls": false
+  },
+  {
+    "screen": "04 · Carrinho",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 596,
+    "viewportHeight": 644,
+    "scrolls": false
+  },
+  {
+    "screen": "05 · Pagamento",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 644,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "06 · Serviços",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 695,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "07 · Profissionais",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 682,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Perfil do profissional",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 645,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Agendamento",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 800,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Confirmação",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "Extra · Compra concluída",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 547,
+    "viewportHeight": 720,
+    "scrolls": false
+  },
+  {
+    "screen": "08 · Spa Pet",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 709,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Spa Pet",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 791,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Spa Pet",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  },
+  {
+    "screen": "08 · Táxi Pet",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 645,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "09 · Táxi Pet",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 975,
+    "viewportHeight": 644,
+    "scrolls": true
+  },
+  {
+    "screen": "10 · Táxi Pet",
+    "width": 768,
+    "height": 932,
+    "contentHeight": 769,
+    "viewportHeight": 720,
+    "scrolls": true
+  }
+]

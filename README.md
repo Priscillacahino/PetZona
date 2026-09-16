@@ -16,6 +16,27 @@ A interface do **PetZona** está passando por uma nova etapa de evolução visua
 
 ---
 
+### Wireframes e prévia navegável
+
+Os materiais de trabalho estão disponíveis em [prototipos/wireframes](./prototipos/wireframes/COMECE-AQUI.md): **18 cenários**, incluindo as dez telas principais, login e variações de compra, Spa Pet e Táxi Pet. A base é **430 × 932 px**, com azul bebê, ameixa e lilás.
+
+| Material | Acesso |
+|---|---|
+| Guia para abrir as telas e importar no Figma | [Comece aqui](./prototipos/wireframes/COMECE-AQUI.md) |
+| Prévia interativa em HTML | [Petzona-preview.html](./prototipos/wireframes/Petzona-preview.html) |
+| Telas individuais em SVG | [18 cenários](./prototipos/wireframes/telas-svg) |
+| Gerador de camadas nativas com Auto Layout | [Plugin do Figma](./prototipos/wireframes/plugin) |
+| Correção de alinhamento do importador | [Guia de correção](./prototipos/wireframes/CORRIGIR-DESALINHAMENTO.md) |
+| Código-fonte e verificações | [Fontes](./prototipos/wireframes/fontes) |
+
+Para experimentar a prévia, baixe o repositório em **Code → Download ZIP**, extraia-o e abra `prototipos/wireframes/Petzona-preview.html` no navegador. O GitHub exibe o código do HTML; a experiência interativa é executada ao abrir o arquivo localmente. Compras, pagamentos e reservas são apenas demonstrações.
+
+![Visão geral das dez telas principais e login do PetZona](./prototipos/wireframes/Petzona-visao-geral.svg)
+
+> **Em desenvolvimento:** a prévia permite comparar larguras de 360, 390, 430 e 768 px. A correção do importador passou por verificações de código e testes estruturais, mas ainda precisa de inspeção visual no Figma. A adaptação das telas e as conexões também devem ser revisadas antes da publicação do protótipo final.
+
+---
+
 ## 📌 Visão geral
 
 | Item | Descrição |
