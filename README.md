@@ -1,182 +1,183 @@
-# 🐾 PetZona — Estudo de Caso Acadêmico de UX/UI
+﻿# ðŸ¾ PetZona â€” Estudo de Caso AcadÃªmico de UX/UI
 
-O **PetZona** foi desenvolvido como projeto final do **Workshop da Fábrica de Software 2026.1**.
+O **PetZona** foi desenvolvido como projeto final do **Workshop da FÃ¡brica de Software 2026.1**.
 
-O desafio fez parte do processo de avaliação para ingresso na equipe de **UX/UI do projeto Adm4All**, permitindo colocar em prática os conhecimentos apresentados durante o workshop.
+O desafio fez parte do processo de avaliaÃ§Ã£o para ingresso na equipe de **UX/UI do projeto Adm4All**, permitindo colocar em prÃ¡tica os conhecimentos apresentados durante o workshop.
 
-## ✨ Nova prototipação — em desenvolvimento
+## âœ¨ Nova prototipaÃ§Ã£o â€” em desenvolvimento
 
-A interface do **PetZona** está passando por uma nova etapa de evolução visual. A imagem abaixo apresenta uma prévia da direção adotada para as novas telas, incluindo experiências de produtos, serviços e confirmação de agendamento.
+A interface do **PetZona** estÃ¡ passando por uma nova etapa de evoluÃ§Ã£o visual. A imagem abaixo apresenta uma prÃ©via da direÃ§Ã£o adotada para as novas telas, incluindo experiÃªncias de produtos, serviÃ§os e confirmaÃ§Ã£o de agendamento.
 
 <p align="center">
-  <img src="./petzona-nova-prototipacao.webp" width="100%" alt="Prévia da nova prototipação do PetZona">
+  <img src="./petzona-nova-prototipacao.webp" width="100%" alt="PrÃ©via da nova prototipaÃ§Ã£o do PetZona">
 </p>
 
-> **Status:** a nova prototipação de alta fidelidade ainda está em desenvolvimento no Figma. Esta imagem representa uma prévia e poderá receber ajustes até a conclusão do fluxo navegável.
+> **Status:** a nova prototipaÃ§Ã£o de alta fidelidade ainda estÃ¡ em desenvolvimento no Figma. Esta imagem representa uma prÃ©via e poderÃ¡ receber ajustes atÃ© a conclusÃ£o do fluxo navegÃ¡vel.
 
 ---
 
-### Wireframes e prévia navegável
+### Wireframes e prÃ©via navegÃ¡vel
 
-Os materiais de trabalho estão disponíveis em [prototipos/wireframes](./prototipos/wireframes/COMECE-AQUI.md): **18 cenários**, incluindo as dez telas principais, login e variações de compra, Spa Pet e Táxi Pet. A base é **430 × 932 px**, com azul bebê, ameixa e lilás.
+Os materiais de trabalho estÃ£o disponÃ­veis em [prototipos/wireframes](./prototipos/wireframes/COMECE-AQUI.md): **18 cenÃ¡rios**, incluindo as dez telas principais, login e variaÃ§Ãµes de compra, Spa Pet e TÃ¡xi Pet. A base Ã© **430 Ã— 932 px**, com azul bebÃª, ameixa e lilÃ¡s.
 
 | Material | Acesso |
 |---|---|
 | Guia para abrir as telas e importar no Figma | [Comece aqui](./prototipos/wireframes/COMECE-AQUI.md) |
-| Prévia interativa em HTML | [Petzona-preview.html](./prototipos/wireframes/Petzona-preview.html) |
-| Telas individuais em SVG | [18 cenários](./prototipos/wireframes/telas-svg) |
+| PrÃ©via interativa em HTML | [Petzona-preview.html](./prototipos/wireframes/Petzona-preview.html) |
+| Telas individuais em SVG | [18 cenÃ¡rios](./prototipos/wireframes/telas-svg) |
 | Gerador de camadas nativas com Auto Layout | [Plugin do Figma](./prototipos/wireframes/plugin) |
-| Correção de alinhamento do importador | [Guia de correção](./prototipos/wireframes/CORRIGIR-DESALINHAMENTO.md) |
-| Código-fonte e verificações | [Fontes](./prototipos/wireframes/fontes) |
+| CorreÃ§Ã£o de alinhamento do importador | [Guia de correÃ§Ã£o](./prototipos/wireframes/CORRIGIR-DESALINHAMENTO.md) |
+| CÃ³digo-fonte e verificaÃ§Ãµes | [Fontes](./prototipos/wireframes/fontes) |
 
-Para experimentar a prévia, baixe o repositório em **Code → Download ZIP**, extraia-o e abra `prototipos/wireframes/Petzona-preview.html` no navegador. O GitHub exibe o código do HTML; a experiência interativa é executada ao abrir o arquivo localmente. Compras, pagamentos e reservas são apenas demonstrações.
+Para experimentar a prÃ©via, baixe o repositÃ³rio em **Code â†’ Download ZIP**, extraia-o e abra `prototipos/wireframes/Petzona-preview.html` no navegador. O GitHub exibe o cÃ³digo do HTML; a experiÃªncia interativa Ã© executada ao abrir o arquivo localmente. Compras, pagamentos e reservas sÃ£o apenas demonstraÃ§Ãµes.
 
-![Visão geral das dez telas principais e login do PetZona](./prototipos/wireframes/Petzona-visao-geral.svg)
+![VisÃ£o geral das dez telas principais e login do PetZona](./prototipos/wireframes/Petzona-visao-geral.svg)
 
-> **Em desenvolvimento:** a prévia permite comparar larguras de 360, 390, 430 e 768 px. A correção do importador passou por verificações de código e testes estruturais, mas ainda precisa de inspeção visual no Figma. A adaptação das telas e as conexões também devem ser revisadas antes da publicação do protótipo final.
+> **Em desenvolvimento:** a prÃ©via permite comparar larguras de 360, 390, 430 e 768 px. A correÃ§Ã£o do importador passou por verificaÃ§Ãµes de cÃ³digo e testes estruturais, mas ainda precisa de inspeÃ§Ã£o visual no Figma. A adaptaÃ§Ã£o das telas e as conexÃµes tambÃ©m devem ser revisadas antes da publicaÃ§Ã£o do protÃ³tipo final.
 
 ---
 
-## 📌 Visão geral
+## ðŸ“Œ VisÃ£o geral
 
-| Item | Descrição |
+| Item | DescriÃ§Ã£o |
 |---|---|
-| **Tipo de projeto** | Acadêmico — desafio final de workshop |
-| **Área** | UX/UI Design |
-| **Segmento** | Produtos e serviços para pets |
-| **Responsabilidade** | Pesquisa exploratória, estruturação do fluxo e prototipação |
+| **Tipo de projeto** | AcadÃªmico â€” desafio final de workshop |
+| **Ãrea** | UX/UI Design |
+| **Segmento** | Produtos e serviÃ§os para pets |
+| **Responsabilidade** | Pesquisa exploratÃ³ria, estruturaÃ§Ã£o do fluxo e prototipaÃ§Ã£o |
 | **Ferramentas** | Figma e Miro |
-| **Período** | 2026.1 |
+| **PerÃ­odo** | 2026.1 |
 
 ---
 
-## 🎯 O desafio
+## ðŸŽ¯ O desafio
 
-A atividade propôs a criação de uma solução digital com, no mínimo, três telas conectadas. O processo deveria contemplar a definição de um perfil de usuário, o mapeamento de sua jornada e a construção de protótipos de baixa e alta fidelidade.
+A atividade propÃ´s a criaÃ§Ã£o de uma soluÃ§Ã£o digital com, no mÃ­nimo, trÃªs telas conectadas. O processo deveria contemplar a definiÃ§Ã£o de um perfil de usuÃ¡rio, o mapeamento de sua jornada e a construÃ§Ã£o de protÃ³tipos de baixa e alta fidelidade.
 
-O protótipo deveria possuir **no mínimo três telas**, contemplando etapas importantes da experiência, como:
+O protÃ³tipo deveria possuir **no mÃ­nimo trÃªs telas**, contemplando etapas importantes da experiÃªncia, como:
 
 - Tela de login;
-- Tela principal ou de conteúdo;
-- Tela relacionada ao produto ou serviço;
+- Tela principal ou de conteÃºdo;
+- Tela relacionada ao produto ou serviÃ§o;
 - Tela final da jornada.
 
-Para o desafio, escolhi desenvolver uma solução voltada ao segmento pet, considerando principalmente pessoas com rotina intensa que precisam encontrar produtos e serviços de confiança para cuidar de seus animais.
+Para o desafio, escolhi desenvolver uma soluÃ§Ã£o voltada ao segmento pet, considerando principalmente pessoas com rotina intensa que precisam encontrar produtos e serviÃ§os de confianÃ§a para cuidar de seus animais.
 
 ---
 
-## 💡 A proposta
+## ðŸ’¡ A proposta
 
-O PetZona foi pensado para concentrar, em um único ambiente, recursos que facilitem a rotina dos tutores:
+O PetZona foi pensado para concentrar, em um Ãºnico ambiente, recursos que facilitem a rotina dos tutores:
 
-- Compra de alimentos, medicamentos, acessórios e outros produtos;
-- Busca por profissionais e serviços próximos;
+- Compra de alimentos, medicamentos, acessÃ³rios e outros produtos;
+- Busca por profissionais e serviÃ§os prÃ³ximos;
 - Agendamento de banho e tosa;
-- Atendimento veterinário;
+- Atendimento veterinÃ¡rio;
 - Pet sitter e passeio;
-- **Spa Pet**, para animais que passarão o dia recebendo cuidados, atenção e carinho;
-- **Táxi Pet**, para transporte seguro do animal;
-- Avaliações de serviços e acompanhamento de pedidos e agendamentos.
+- **Spa Pet**, para animais que passarÃ£o o dia recebendo cuidados, atenÃ§Ã£o e carinho;
+- **TÃ¡xi Pet**, para transporte seguro do animal;
+- AvaliaÃ§Ãµes de serviÃ§os e acompanhamento de pedidos e agendamentos.
 
-Os serviços de **Spa Pet** e **Táxi Pet** ampliam a resposta à principal necessidade identificada: facilitar o cuidado com os animais quando o tutor possui pouco tempo disponível.
+Os serviÃ§os de **Spa Pet** e **TÃ¡xi Pet** ampliam a resposta Ã  principal necessidade identificada: facilitar o cuidado com os animais quando o tutor possui pouco tempo disponÃ­vel.
 
-### 🧩 UX/UI com visão de Customer Experience
+### ðŸ§© UX/UI com visÃ£o de Customer Experience
 
-Além da interface, a evolução do PetZona considera a **jornada do tutor, pontos de atrito, confiança e acompanhamento dos serviços**, ampliando o projeto para uma visão de experiência do cliente.
+AlÃ©m da interface, a evoluÃ§Ã£o do PetZona considera a **jornada do tutor, pontos de atrito, confianÃ§a e acompanhamento dos serviÃ§os**, ampliando o projeto para uma visÃ£o de experiÃªncia do cliente.
 
 ---
 
-## 👤 Proto-persona
+## ðŸ‘¤ Proto-persona
 
-A proto-persona **Tamiris** representa uma tutora com rotina profissional intensa e três animais de estimação. Ela procura praticidade, preços acessíveis e, principalmente, confiança nas pessoas responsáveis pelos cuidados com seus pets.
+A proto-persona **Tamiris** representa uma tutora com rotina profissional intensa e trÃªs animais de estimaÃ§Ã£o. Ela procura praticidade, preÃ§os acessÃ­veis e, principalmente, confianÃ§a nas pessoas responsÃ¡veis pelos cuidados com seus pets.
 
 ### Necessidades principais
 
 - Economizar tempo;
 - Comprar produtos sem precisar se deslocar;
-- Encontrar serviços confiáveis;
+- Encontrar serviÃ§os confiÃ¡veis;
 - Acompanhar pedidos e agendamentos;
-- Garantir que seus animais recebam atenção durante sua ausência.
+- Garantir que seus animais recebam atenÃ§Ã£o durante sua ausÃªncia.
 
-📄 **[Visualizar proto-persona](./persona-petzona.pdf)**
-
----
-
-## 🗺️ Jornada do usuário
-
-O mapeamento da jornada ajudou a organizar as ações, necessidades, dificuldades e oportunidades percebidas em diferentes momentos da experiência.
-
-Esse processo serviu como base para estruturar o fluxo antes da criação das telas.
-
-📄 **[Visualizar jornada do usuário](./jornada-do-cliente-petzona.pdf.pdf)**
+ðŸ“„ **[Visualizar proto-persona](./persona-petzona.pdf)**
 
 ---
 
-## ✏️ Do esboço ao protótipo
+## ðŸ—ºï¸ Jornada do usuÃ¡rio
 
-### 1. Esboços iniciais
+O mapeamento da jornada ajudou a organizar as aÃ§Ãµes, necessidades, dificuldades e oportunidades percebidas em diferentes momentos da experiÃªncia.
 
-As primeiras ideias foram desenhadas à mão para organizar a distribuição dos elementos e a sequência das telas.
+Esse processo serviu como base para estruturar o fluxo antes da criaÃ§Ã£o das telas.
+
+ðŸ“„ **[Visualizar jornada do usuÃ¡rio](./jornada-do-cliente-petzona.pdf.pdf)**
+
+---
+
+## âœï¸ Do esboÃ§o ao protÃ³tipo
+
+### 1. EsboÃ§os iniciais
+
+As primeiras ideias foram desenhadas Ã  mÃ£o para organizar a distribuiÃ§Ã£o dos elementos e a sequÃªncia das telas.
 
 <p align="center">
-  <img src="./prototipo-baixa-fidelidade-inicial-petzona.jpeg.jpeg" width="700" alt="Esboços iniciais do projeto PetZona">
+  <img src="./prototipo-baixa-fidelidade-inicial-petzona.jpeg.jpeg" width="700" alt="EsboÃ§os iniciais do projeto PetZona">
 </p>
 
-### 2. Protótipo de baixa fidelidade
+### 2. ProtÃ³tipo de baixa fidelidade
 
-Os wireframes foram construídos no Figma para definir a arquitetura das informações e o fluxo de navegação, antes da aplicação da identidade visual.
+Os wireframes foram construÃ­dos no Figma para definir a arquitetura das informaÃ§Ãµes e o fluxo de navegaÃ§Ã£o, antes da aplicaÃ§Ã£o da identidade visual.
 
-🔗 **[Acessar protótipo de baixa fidelidade no Figma](https://www.figma.com/design/vAmvuf2GjmCAnx36Vieos4/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=tca6BgWprst7PPyQ-0)**
+ðŸ”— **[Acessar protÃ³tipo de baixa fidelidade no Figma](https://www.figma.com/design/vAmvuf2GjmCAnx36Vieos4/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=tca6BgWprst7PPyQ-0)**
 
-### 3. Protótipo de alta fidelidade — em evolução
+### 3. ProtÃ³tipo de alta fidelidade â€” em evoluÃ§Ã£o
 
-Na etapa atual, estão sendo aplicados cores, imagens, tipografia e componentes visuais para evoluir a experiência da solução. A nova prototipação ainda está em desenvolvimento e poderá receber ajustes de interface, componentes e fluxo.
+Na etapa atual, estÃ£o sendo aplicados cores, imagens, tipografia e componentes visuais para evoluir a experiÃªncia da soluÃ§Ã£o. A nova prototipaÃ§Ã£o ainda estÃ¡ em desenvolvimento e poderÃ¡ receber ajustes de interface, componentes e fluxo.
 
-🔗 **O link do protótipo final será inserido após a conclusão das telas no Figma.**
+ðŸ”— **O link do protÃ³tipo final serÃ¡ inserido apÃ³s a conclusÃ£o das telas no Figma.**
 
 ---
 
-## 🔄 Fluxos trabalhados
+## ðŸ”„ Fluxos trabalhados
 
 ### Compra de produtos
 
 1. Acesso ou cadastro;
 2. Escolha da categoria do animal;
-3. Visualização dos produtos;
-4. Seleção do item;
-5. Carrinho e endereço;
+3. VisualizaÃ§Ã£o dos produtos;
+4. SeleÃ§Ã£o do item;
+5. Carrinho e endereÃ§o;
 6. Forma de pagamento;
-7. Confirmação do pedido.
+7. ConfirmaÃ§Ã£o do pedido.
 
-### Contratação de serviços
+### ContrataÃ§Ã£o de serviÃ§os
 
-1. Escolha do tipo de serviço;
-2. Busca e comparação de profissionais;
-3. Consulta de perfil, avaliações e valores;
-4. Escolha de data, horário e local;
-5. Confirmação do agendamento;
+1. Escolha do tipo de serviÃ§o;
+2. Busca e comparaÃ§Ã£o de profissionais;
+3. Consulta de perfil, avaliaÃ§Ãµes e valores;
+4. Escolha de data, horÃ¡rio e local;
+5. ConfirmaÃ§Ã£o do agendamento;
 6. Acompanhamento do atendimento.
 
 ---
 
-## 🛠️ Conhecimentos aplicados
+## ðŸ› ï¸ Conhecimentos aplicados
 
 - Proto-persona;
-- Jornada do usuário;
-- Arquitetura da informação;
-- Fluxo de navegação;
-- Esboços e wireframes;
-- Prototipação de baixa e alta fidelidade;
-- Organização visual de interfaces;
-- Princípios iniciais de usabilidade;
+- Jornada do usuÃ¡rio;
+- Arquitetura da informaÃ§Ã£o;
+- Fluxo de navegaÃ§Ã£o;
+- EsboÃ§os e wireframes;
+- PrototipaÃ§Ã£o de baixa e alta fidelidade;
+- OrganizaÃ§Ã£o visual de interfaces;
+- PrincÃ­pios iniciais de usabilidade;
 - Figma e Miro.
 
 ---
 
-## 👩‍💻 Autora
+## ðŸ‘©â€ðŸ’» Autora
 
 **Priscilla Cahino**  
-Estudante de Análise e Desenvolvimento de Sistemas  
-UX/UI — Fábrica de Software | Adm4All
+Estudante de AnÃ¡lise e Desenvolvimento de Sistemas  
+UX/UI â€” FÃ¡brica de Software | Adm4All
 
-Este repositório apresenta um projeto acadêmico e seu processo de evolução como parte da minha aprendizagem em tecnologia e design de experiências.
+Este repositÃ³rio apresenta um projeto acadÃªmico e seu processo de evoluÃ§Ã£o como parte da minha aprendizagem em tecnologia e design de experiÃªncias.
+
