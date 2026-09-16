@@ -9,7 +9,7 @@ O desafio fez parte do processo de avaliaÃ§Ã£o para ingresso na equipe de **
 A interface do **PetZona** estÃ¡ passando por uma nova etapa de evoluÃ§Ã£o visual. A imagem abaixo apresenta uma prÃ©via da direÃ§Ã£o adotada para as novas telas, incluindo experiÃªncias de produtos, serviÃ§os e confirmaÃ§Ã£o de agendamento.
 
 <p align="center">
-  <img src="./petzona-nova-prototipacao.webp" width="100%" alt="PrÃ©via da nova prototipaÃ§Ã£o do PetZona">
+  <img src="./prototipos/wireframes/Petzona-visao-geral.png" width="100%" alt="PrÃ©via da nova prototipaÃ§Ã£o do PetZona">
 </p>
 
 > **Status:** a nova prototipaÃ§Ã£o de alta fidelidade ainda estÃ¡ em desenvolvimento no Figma. Esta imagem representa uma prÃ©via e poderÃ¡ receber ajustes atÃ© a conclusÃ£o do fluxo navegÃ¡vel.
@@ -180,4 +180,5 @@ Estudante de AnÃ¡lise e Desenvolvimento de Sistemas
 UX/UI â€” FÃ¡brica de Software | Adm4All
 
 Este repositÃ³rio apresenta um projeto acadÃªmico e seu processo de evoluÃ§Ã£o como parte da minha aprendizagem em tecnologia e design de experiÃªncias.
+
 
